@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Differ App</string>
+    <string name="facebook_app_id">1231413864935832</string>
+    <string name="facebook_client_token">28114b2750277bfb2221effd2fc158f2</string>
+</resources>
