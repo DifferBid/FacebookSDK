@@ -4,11 +4,8 @@ package develop.differexemples.differapp;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.Button;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import com.facebook.FacebookSdk;
-
 
 public class ActivityInitialized extends AppCompatActivity {
 
