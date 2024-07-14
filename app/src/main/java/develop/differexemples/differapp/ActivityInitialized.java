@@ -18,7 +18,6 @@ public class ActivityInitialized extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_initialized);
 
-
         Button button_initialized = findViewById(R.id.button_initialized);
         button_initialized.setOnClickListener(view -> {
             if (FacebookSdk.isInitialized()) {
